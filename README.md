@@ -1,5 +1,7 @@
 # A Basic Django Video Streaming App using OpenCV
 
+Adopted from https://blog.miguelgrinberg.com/post/video-streaming-with-flask/page/8.
+
 ## Usage 
 
 * Install python3 and pip if not installed.
